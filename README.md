@@ -1,4 +1,12 @@
+# Setup
 
+
+- M: MongoDB (Database)
+- E: Express (Backend)
+- R: React.js (Frontend)
+- N: Node.js (Runtime Environment)
+
+---
 
 ### Node.js
 - 
